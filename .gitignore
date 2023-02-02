@@ -2,3 +2,5 @@
 *tmp
 stack/.DS_Store
 stack/bq_extractor/*tmp.py
+stack/bq_extractor/__pycache__/app.cpython-37.pyc
+.DS_Store
